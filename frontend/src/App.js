@@ -48,7 +48,7 @@ function App() {
       <div className="speed-control">
           <h3>Speed Selector in WPM (words per minute)</h3><input type="text" value={speed} onChange={handleSpeedChange} size="5" />
       </div>
-      <button onClick={handleStart}>Start</button>
+      <button onClick={handleStart} className="start-button">Start</button>
     </div>
   );
 }

@@ -31,6 +31,14 @@
 .speedreader {
     text-align: center;
     padding-top: 10%;
+} 
+
+.start-button {
+    margin-left: 3%;
+} 
+
+.speed-control {
+    margin: 3%;
 }
 
 .input-field {
