@@ -1,6 +1,8 @@
-# Tez can be used to Speed Read Large Volume of Text in Short Amount of Time  
+# Tez  
 
-instructions to install and run the app: 
+Tex can be used to Speed Read Large Volume of Text in Short Amount of Time  
+
+Instructions to install and run the app: 
 
 ## Installing
 
