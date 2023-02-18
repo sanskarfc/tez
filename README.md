@@ -1,6 +1,7 @@
 # Tez  
 
 Tex can be used to Speed Read Large Volume of Text in Short Amount of Time  
+![example-image](https://github.com/sanskarfc/tez/blob/main/example-image.png)
 
 Instructions to install and run the app: 
 
