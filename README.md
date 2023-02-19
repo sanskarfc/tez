@@ -1,6 +1,6 @@
 # Tez  
 
-Tex can be used to Speed Read Large Volume of Text in Short Amount of Time  
+Tez can be used to Speed Read Large Volume of Text in Short Amount of Time  
 
 Live Deployment: https://tez-reader.netlify.app/
 
