@@ -1,4 +1,4 @@
-# Tez  
+![tez-logo](https://github.com/sanskarfc/tez/blob/main/tez.png)
 
 Tez can be used to Speed Read Large Volume of Text in Short Amount of Time  
 
